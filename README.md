@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on **MITRE ATT&CK mapping** and **QRadar/Wazuh detection content**
 - 🙌 I’m looking for help with **test data & false-positive tuning** (AD, DNS, Proxy, SMB)
 - 📝 I share updates in Issues/PRs and on **[LinkedIn](https://www.linkedin.com/in/uppalapatibhargav/)**
-- 💬 Ask me about **QRadar**, **Wazuh**, **ICS/IoT (MQTT, Modbus)**
+- 💬 Ask me about **QRadar**, **ELK**, **Wazuh**, **ICS/IoT (MQTT, Modbus)**
 - 📫 How to reach me: **bhargavu720@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/uppalapatibhargav/)**
 
 ---
