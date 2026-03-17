@@ -1,7 +1,7 @@
 # QRCE-QRadar-Rules
 
 ## Hi 👋, I'm Bhargav
-**SOC / Blue-Team Engineer @ Cyberlancers**
+**Cyber Security Analyst @ Cyberlancers**
 
 - 🔭 I’m currently working on **QRCE – QRadar Rule Pack** (this repo)
 - 🤝 I’m looking to collaborate on **MITRE ATT&CK mapping** and **QRadar/Wazuh detection content**
